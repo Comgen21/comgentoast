@@ -18,7 +18,4 @@ To get a Git project into your build:
   
   > Step 2. Add the dependency
   
-  dependencies {
-  
-	        implementation 'com.github.Comgen21:comgentoast:Tag'
-	}
+  dependencies {implementation 'com.github.Comgen21:comgentoast:Tag'}
